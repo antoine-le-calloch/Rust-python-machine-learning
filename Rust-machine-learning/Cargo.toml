@@ -1,6 +1,7 @@
 [package]
-name = "Rust-python-machine-learning"
+name = "Rust-machine-learning"
 version = "0.1.0"
+authors = ["Le C"]
 edition = "2021"
 
 [dependencies]
